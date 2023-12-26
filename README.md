@@ -92,5 +92,5 @@
 
 
 <p align="center"><img height = "200px" align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-Ramdan&show_icons=true&theme=onedark&locale=en" alt="khaled-Ramdan" />
-  <img height = "200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-Ramdan&show_icons=true&theme=onedark&locale=en&layout=compact" alt="khaled-Ramdan" /></p>
+  <img height = "200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-Ramdan&show_icons=true&theme=onedark&locale=en&layout=compact" alt="khaled-Ramdan" /></p>
 
