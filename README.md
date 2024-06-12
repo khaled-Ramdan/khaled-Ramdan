@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-Ramdan&label=Profile%20views&color=0e75b6&style=flat" alt="khaled" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-Ramdan&label=Profile%20views&color=0e75b6&style=flat" alt="khaled" /> </p> -->
 
 - 🏢 I'm a software Engineer.
 - 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -90,7 +90,4 @@
 			</a>
 </p>
 
-
-<p align="center"><img height = "200px" align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-Ramdan&show_icons=true&theme=onedark&locale=en" alt="khaled-Ramdan" />
-  <img height = "200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-Ramdan&show_icons=true&theme=onedark&locale=en&layout=compact" alt="khaled-Ramdan" /></p>
 
