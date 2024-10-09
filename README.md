@@ -8,7 +8,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-Ramdan&label=Profile%20views&color=0e75b6&style=flat" alt="khaled" /> </p> -->
 
 - 🏢 I'm a software Engineer.
-- 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 📫 How to reach me **<khaled2346@gmail.com>**
 
 
@@ -91,3 +91,7 @@
 </p>
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-Ramdan&show_icons=true&locale=en&layout=compact" alt="khaled-Ramdan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-Ramdan&show_icons=true&locale=en" alt="khaled-Ramdan" /></p>
